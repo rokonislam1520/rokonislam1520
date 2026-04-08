@@ -67,7 +67,13 @@ VS Code extension for managing and inserting code snippets.
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=rokonislam1520&cc=0d1117&tc=ffffff&ic=ffffff&bc=0d1117" height="170"/>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=rokonislam1520&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="170"/>
+</picture>
+&nbsp;
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokonislam1520&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+</picture>
 
 </div>
 
