@@ -73,10 +73,6 @@ VS Code extension for managing and inserting code snippets.
 
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=rokonislam1520&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</div>
-
 ---
 
 ## Contribution Graph
@@ -86,7 +82,7 @@ VS Code extension for managing and inserting code snippets.
 ---
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=rokonislam1520&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rokonislam1520&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 ---
