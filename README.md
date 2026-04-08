@@ -25,14 +25,11 @@
 
 ## Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,cpp,vscode,git,postman&theme=dark&perline=8"/>
+
+</div>
 
 ---
 
@@ -70,10 +67,14 @@ VS Code extension for managing and inserting code snippets.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rokonislam1520&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rokonislam1520&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokonislam1520&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokonislam1520&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=rokonislam1520&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 ---
